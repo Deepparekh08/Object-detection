@@ -35,3 +35,6 @@ This project focuses on detecting Personal Protective Equipment (PPE) using YOLO
 ### Results
 
 The project successfully demonstrates the capability of YOLOv8 in detecting PPE items from annotated images, providing a detailed evaluation of model performance through various metrics and visualizations.
+
+### View the Notebook
+You can view the detailed notebook on [Nbviewer]([https://nbviewer.org/url-to-your-notebook](https://nbviewer.org/github/Deepparekh08/PPE-detection-with-YOLOv8/blob/main/Yolov8_object_detection.ipynb)).
